@@ -18,6 +18,19 @@ O UrbanLitTracker é uma ferramenta projetada para coletar, processar e armazena
     * **Exportação de Dados:** Os dados analisados podem ser exportados para arquivos CSV, facilitando o uso em outras ferramentas.
     * **Interface Interativa:** O Dashboard criado com Dash e Dash Mantine Components oferece uma interface interativa para explorar os dados.
 
+
+![autores.png](imgs/autores.png)
+
+![citacoes.png](imgs/citacoes.png)
+
+![distribuicao_publicacoes_por_ano.png](imgs/distribuicao_publicacoes_por_ano.png)
+
+![palavras_chave.png](imgs/palavras_chave.png)
+
+![relevancia.png](imgs/relevancia.png)
+
+![top_10_artigos_mais_citados_com_legenda.png](imgs/top_10_artigos_mais_citados_com_legenda.png)
+
 ## Tecnologias Utilizadas
 
 * **Python:** Linguagem de programação principal.
